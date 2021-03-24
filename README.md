@@ -9,6 +9,16 @@
 	<img alt="Counter" src="https://komarev.com/ghpvc/?username=suchorski&color=green" />
 </p>
 
+<h3 align="center">Statistics</h3>
+<p align="center">
+	<a href="https://www.github.com/suchorski/">
+		<img alt="Suchorski's Statistics" src="https://github-readme-stats.vercel.app/api?username=suchorski&theme=vue" />
+	</a>
+	<a href="https://www.github.com/suchorski/">
+		<img alt="Suchorski's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchorski&theme=vue&layout=compact&langs_count=8" />
+	</a>
+</p>
+
 <h3 align="center">Contact me</h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/thiago-suchorski-2997b370/">
