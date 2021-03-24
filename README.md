@@ -1,6 +1,7 @@
 # Thiago Suchorski
 
 - I'm currently developing in Java with Spring framework for back-end and VueJS for the front-end;
+- Learning Ionic and NuxtJS;
 - Living in Lagoa Santa - MG;
 - And always learning new things.
 
