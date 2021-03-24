@@ -10,17 +10,14 @@
 
 <h3 align="center">Contact me</h3>
 <p align="center">
+	<a href="https://www.linkedin.com/in/thiago-suchorski-2997b370/">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/Thiago%20Suchorski-purple.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
 	<a href="https://www.instagram.com/thiagosuchorski/">
 		<img alt="Instagram" src="https://img.shields.io/badge/thiagosuchorski-purple.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 	</a>
-	<a href="https://twitter.com/suchorskitbs">
-		<img alt="Twitter" src="https://img.shields.io/badge/suchorskitbs-purple.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
-	</a>
 	<a href="https://www.youtube.com/channel/UCEkt8HnRCbzppbdLpUMf4Mw">
 		<img alt="Youtube" src="https://img.shields.io/badge/Zap%20GAME|PLAY-purple.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />
-	</a>
-	<a href="https://www.linkedin.com/in/thiago-suchorski-2997b370/">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/Thiago%20Suchorski-purple.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://discord.gg/ckT23Zyh4e">
 		<img alt="Discord" src="https://img.shields.io/badge/Zap%231987-purple.svg?&style=for-the-badge&logo=discord&logoColor=white" />
