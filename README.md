@@ -28,15 +28,6 @@
 	</a>
 </p>
 
-<p align="center">
-	<a href="https://www.github.com/suchorski/">
-		<img alt="Suchorski's Statistics" src="https://github-readme-stats.vercel.app/api?username=suchorski&theme=vue" />
-	</a>
-	<a href="https://www.github.com/suchorski/">
-		<img alt="Suchorski's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchorski&theme=vue&layout=compact&langs_count=8" />
-	</a>
-</p>
-
 <h3 align="center">Programming Languages</h3>
 <p align="center">
 	<img alt="C" src="https://img.shields.io/badge/C-blue.svg?&style=for-the-badge&logo=c&logoColor=white" />
