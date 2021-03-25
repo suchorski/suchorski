@@ -1,3 +1,9 @@
+<p align="center">
+	 <a href="https://www.buymeacoffee.com/suchorski" target="_blank">
+	 	 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
+	 </a>
+<p>
+
 # Thiago Suchorski
 
 - I'm currently developing in Java with Spring framework for back-end and VueJS for the front-end;
