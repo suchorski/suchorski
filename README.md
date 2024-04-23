@@ -6,8 +6,7 @@
 
 # Thiago Suchorski
 
-- I'm currently developing in Java with Spring framework for back-end and VueJS for the front-end;
-- Learning Quasar and NuxtJS;
+- I'm currently developing in Java with Spring framework for back-end and NuxtJS for the front-end;
 - Living in Lagoa Santa - MG;
 - And always learning new things.
 
