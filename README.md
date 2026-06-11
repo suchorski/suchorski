@@ -2,29 +2,47 @@
 
 <div align="center">
 
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-red.png)](https://www.buymeacoffee.com/suchorski)
+### Software Developer • AI Enthusiast • Cloud & Infrastructure Engineer
+
+Building scalable applications, automations and AI-powered solutions.
+
+🌐 Portfolio: https://www.suchorski.com
 
 </div>
 
+---
+
 ## 🚀 About Me
 
-Software Developer passionate about building scalable applications, cloud infrastructure, automation, and Artificial Intelligence.
+I'm a software developer focused on delivering modern solutions using Java, Spring Boot, Nuxt and Artificial Intelligence.
 
-Currently focused on:
+My main interests include:
 
-- ☕ Java & Spring Boot
-- ⚡ Nuxt 3, Vue.js & Modern Front-End
-- 🐳 Docker & Containerized Applications
-- ☁️ Cloud Computing
-- 🤖 AI Integrations & LLM Applications
-- 🔒 Network Infrastructure & Security
+- ☕ Backend Development with Java & Spring Boot
+- ⚡ Modern Front-End with Nuxt & Vue
+- 🤖 AI Agents and LLM Integrations
+- 🧠 Artificial Intelligence Applications
+- 🐳 Docker & Containerization
+- ☁️ Cloud Infrastructure
+- 🔒 Network Security
 - 🚀 DevOps & Automation
+- 🐧 Linux Servers
 
-Always learning, always building.
+Always learning and building new things.
 
 ---
 
-## 📊 GitHub Statistics
+## 🌐 Portfolio
+
+### Visit my portfolio
+
+🚀 **https://www.suchorski.com**
+
+Projects, experience, services and technical content.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -34,17 +52,22 @@ Always learning, always building.
 
 </div>
 
-<div align="center">
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suchorski&theme=vue&hide_border=true" />
+## 🧠 Artificial Intelligence
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Agents-6E40C9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-FF9800?style=for-the-badge" />
+</p>
 
 ---
 
-## 💻 Tech Stack
-
-### Backend
+## 💻 Backend
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -52,7 +75,9 @@ Always learning, always building.
 <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
 </p>
 
-### Frontend
+---
+
+## 🎨 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
@@ -60,16 +85,9 @@ Always learning, always building.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### AI & Automation
+---
 
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Agents-6E40C9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge" />
-</p>
-
-### Cloud & Infrastructure
+## ☁️ Cloud & Infrastructure
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -79,7 +97,9 @@ Always learning, always building.
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-### Database
+---
+
+## 🗄️ Database
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -87,24 +107,13 @@ Always learning, always building.
 
 ---
 
-## 🏆 Areas of Expertise
-
-- Enterprise Web Applications
-- API Development
-- Cloud Infrastructure
-- Containerization
-- Artificial Intelligence Integrations
-- AI Agents & Workflow Automation
-- Network Administration
-- Linux Servers
-- Performance Optimization
-- DevOps Practices
-
----
-
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
+
+<a href="https://www.suchorski.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 <a href="https://www.linkedin.com/in/thiago-suchorski-2997b370/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -112,10 +121,6 @@ Always learning, always building.
 
 <a href="https://www.instagram.com/thiagosuchorski/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.youtube.com/channel/UCEkt8HnRCbzppbdLpUMf4Mw">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <a href="https://discord.gg/ckT23Zyh4e">
