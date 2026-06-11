@@ -1,78 +1,133 @@
-<p align="center">
-	 <a href="https://www.buymeacoffee.com/suchorski" target="_blank">
-	 	 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
-	 </a>
+# Hi there, I'm Thiago Suchorski 👋
+
+<div align="center">
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-red.png)](https://www.buymeacoffee.com/suchorski)
+
+</div>
+
+## 🚀 About Me
+
+Software Developer passionate about building scalable applications, cloud infrastructure, automation, and Artificial Intelligence.
+
+Currently focused on:
+
+- ☕ Java & Spring Boot
+- ⚡ Nuxt 3, Vue.js & Modern Front-End
+- 🐳 Docker & Containerized Applications
+- ☁️ Cloud Computing
+- 🤖 AI Integrations & LLM Applications
+- 🔒 Network Infrastructure & Security
+- 🚀 DevOps & Automation
+
+Always learning, always building.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=suchorski&show_icons=true&theme=vue&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchorski&layout=compact&theme=vue&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suchorski&theme=vue&hide_border=true" />
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+
 <p>
-
-# Thiago Suchorski
-
-- I'm currently developing in Java with Spring framework for back-end and NuxtJS for the front-end;
-- Living in Lagoa Santa - MG;
-- And always learning new things.
-
-<p align="center">
-	<img alt="Counter" src="https://komarev.com/ghpvc/?username=suchorski&color=green" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
 </p>
 
-<h3 align="center">Statistics</h3>
-<p align="center">
-	<a href="https://www.github.com/suchorski/">
-		<img alt="Suchorski's Statistics" src="https://github-readme-stats.vercel.app/api?username=suchorski&theme=vue" />
-	</a>
-	<a href="https://www.github.com/suchorski/">
-		<img alt="Suchorski's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchorski&theme=vue&layout=compact&langs_count=8" />
-	</a>
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<h3 align="center">Contact me</h3>
-<p align="center">
-	<a href="https://www.linkedin.com/in/thiago-suchorski-2997b370/">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/Thiago%20Suchorski-purple.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://www.instagram.com/thiagosuchorski/">
-		<img alt="Instagram" src="https://img.shields.io/badge/thiagosuchorski-purple.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-	</a>
-	<a href="https://www.youtube.com/channel/UCEkt8HnRCbzppbdLpUMf4Mw">
-		<img alt="Youtube" src="https://img.shields.io/badge/Zap%20GAME|PLAY-purple.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />
-	</a>
-	<a href="https://discord.gg/ckT23Zyh4e">
-		<img alt="Discord" src="https://img.shields.io/badge/Zap%231987-purple.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-	</a>
-	<a href="https://www.facebook.com/suchorski">
-		<img alt="Facebook" src="https://img.shields.io/badge/suchorski-purple.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
-	</a>
+### AI & Automation
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Agents-6E40C9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge" />
 </p>
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-	<img alt="C" src="https://img.shields.io/badge/C-blue.svg?&style=for-the-badge&logo=c&logoColor=white" />
-	<img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
-	<img alt="Java" src="https://img.shields.io/badge/Java-blue.svg?&style=for-the-badge&logo=java&logoColor=white" />
-	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-blue.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+### Cloud & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-<h3 align="center">Frameworks</h3>
-<p align="center">
-	<img alt="Vue.js" src="https://img.shields.io/badge/VueJS-green.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
-	<img alt="Spring" src="https://img.shields.io/badge/Spring-green.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+### Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<h3 align="center">Source Control</h3>
+---
+
+## 🏆 Areas of Expertise
+
+- Enterprise Web Applications
+- API Development
+- Cloud Infrastructure
+- Containerization
+- Artificial Intelligence Integrations
+- AI Agents & Workflow Automation
+- Network Administration
+- Linux Servers
+- Performance Optimization
+- DevOps Practices
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git-orange.svg?&style=for-the-badge&logo=git&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/thiago-suchorski-2997b370/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/thiagosuchorski/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCEkt8HnRCbzppbdLpUMf4Mw">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/ckT23Zyh4e">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 </p>
 
-<h3 align="center">Servers</h3>
-<p align="center">
-	<img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-brown.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" />
-	<img alt="Firebase" src="https://img.shields.io/badge/Firebase-brown.svg?&style=for-the-badge&logo=firebase&logoColor=white" />
-	<img alt="Vercel" src="https://img.shields.io/badge/Vercel-brown.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
-	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-brown.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+---
 
-<h3 align="center">Gaming</h3>
-<p align="center">
-	<a href="https://steamcommunity.com/id/suchorskitbs">
-		<img alt="Steam" src="https://img.shields.io/badge/Steam-black.svg?&style=for-the-badge&logo=steam&logoColor=white" />
-	</a>
-</p>
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=suchorski&color=brightgreen)
+
+</div>
